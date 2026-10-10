@@ -1,0 +1,9 @@
+# 发行二进制不入库，走 Release 附件
+*.zip
+*.exe
+*.dll
+*.bak
+game_data.sav
+backups/
+__pycache__/
+.venv/
