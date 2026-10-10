@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 使用说明
+    url: https://github.com/leasurey/botw-save-lab-release/blob/main/%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.md
+    about: 提问前请先查看使用说明，常见问题（浏览器打不开、找不到 .sav、写回失败）都有解答。
