@@ -6,7 +6,7 @@
 
 > 源码与构建脚本见上游仓库：[leasurey/botw-save-lab](https://github.com/leasurey/botw-save-lab)
 
-当前版本：**V13.7**
+当前版本：**V13.8**
 目标平台：Wii U 1.5.0 日版 `game_data.sav`（signature 18203 / 0x471B）
 界面语言：中文
 
@@ -31,7 +31,7 @@
 
 ### 一、下载
 
-在右侧 **Releases** 下载最新的 `botw-save-lab-v13.7-windows.zip`，解压到方便找到的位置。
+在右侧 **Releases** 下载最新的 `botw-save-lab-v13.8-windows.zip`，解压到方便找到的位置。
 
 解压后目录应如下（**整个文件夹保持在一起，不要单独把 exe 拖出来**）：
 
