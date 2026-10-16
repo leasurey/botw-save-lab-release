@@ -6,6 +6,7 @@
 
 ### 🐛 修复
 - 修复网页编辑器所有按钮点击无反应的问题（`savLoaded`/`invLoaded`/`horseLoaded`/`posLoaded` 四个标志原本被声明在函数内部，IIFE 顶层代码读取时抛 `ReferenceError`；已提升到顶层声明）。
+- 未找到存档时的提示不再打印本机绝对路径（含用户名），改为通用文案「把 game_data.sav 放到 botw_lab.exe 所在的文件夹即可」。
 
 ### ✨ 新增
 - 「一键导出」在本地服务模式下直接把修改写回 `backups/<日期>/`，省去下载四个文件再手工搬运的步骤。
